@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Phase-2-Software-Website/static/css/main.6a790f7a.css",
+    "main.js": "/Phase-2-Software-Website/static/js/main.b2f2b340.js",
+    "index.html": "/Phase-2-Software-Website/index.html",
+    "main.6a790f7a.css.map": "/Phase-2-Software-Website/static/css/main.6a790f7a.css.map",
+    "main.b2f2b340.js.map": "/Phase-2-Software-Website/static/js/main.b2f2b340.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a790f7a.css",
+    "static/js/main.b2f2b340.js"
+  ]
+}
